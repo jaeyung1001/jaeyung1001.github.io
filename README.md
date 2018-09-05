@@ -31,13 +31,14 @@ Abstract
 
 1. 
 2. 
-3. 
+3.
+
 ***
 ## Awards
 
 - Data Challenge R&D android malware apps detection Winner
-2017. 11<br>
-Information Security R&D Data Challenge Using Machine Learning to detect malware android App
+  2017. 11<br>
+  Information Security R&D Data Challenge Using Machine Learning to detect malware android App
 
 ***
 ## Language
