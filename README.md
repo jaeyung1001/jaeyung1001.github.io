@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Education
 
-You can use the [editor on GitHub](https://github.com/jaeyung1001/jaeyung1001.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+2012 ~ 2016 China, Tsinghua University. <strong>Computer Science and Technology</strong>. Bachelor's degree <br>
+2017 ~ 2019 Korea, Korea University. <strong>Information Security</strong>. Master's degree
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
