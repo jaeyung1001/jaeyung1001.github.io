@@ -1,16 +1,15 @@
 ## Personal Information
 
-Name: Jaeyung Lee<br>
-Birth: 1993. 10. 01<br>
-E-mail: jaeyung1001@naver.com OR jaeyung1001@gmail.com<br>
-Github: https://github.com/jaeyung1001<br>
+<strong>Name</strong>:   Jaeyung Lee<br>
+<strong>Birth</strong>:  1993. 10. 01<br>
+<strong>E-mail</strong>: jaeyung1001@naver.com OR jaeyung1001@gmail.com<br>
+<strong>Github</strong>: [https://github.com/jaeyung1001](https://github.com/jaeyung1001)<br>
+<strong>Blog</strong>:   [https://jaeyung1001.tistory.com](https://jaeyung1001.tistory.com)<br>
 
 ## Education
 
 2012 ~ 2016 China, Tsinghua University. <strong>Computer Science and Technology</strong>. Bachelor's degree <br>
 2017 ~ 2019 Korea, Korea University. <strong>Information Security</strong>. Master's degree
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
 
