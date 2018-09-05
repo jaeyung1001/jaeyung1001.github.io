@@ -6,7 +6,9 @@
 **E-mail**: jaeyung1001@naver.com OR jaeyung1001@gmail.com<br>
 **Github**: [https://github.com/jaeyung1001](https://github.com/jaeyung1001)<br>
 **Blog**:   [https://jaeyung1001.tistory.com](https://jaeyung1001.tistory.com)<br>
+**LinkedIn**: [https://www.linkedin.com/in/lee-jae-yung-1017b2151/](https://www.linkedin.com/in/lee-jae-yung-1017b2151/)<br>
 **Programming Language**:  Python, C++, JAVA, Web Programming...<br>
+
 ***
 ## Education
 
