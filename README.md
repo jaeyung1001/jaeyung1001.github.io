@@ -5,7 +5,7 @@
 <strong>Birth</strong>:  1993. 10. 01<br>
 <strong>E-mail</strong>: jaeyung1001@naver.com OR jaeyung1001@gmail.com<br>
 <strong>Github</strong>: [https://github.com/jaeyung1001](https://github.com/jaeyung1001)<br>
-<strong>Blog</strong>:   [https://jaeyung1001.tistory.com](https://jaeyung1001.tistory.com)<br>
+<strong>Blog</strong>:   [https://jaeyung1001.tistory.com](https://jaeyung1001.tistory.com)
 
 ***
 ## Education
@@ -35,14 +35,14 @@ Abstract
 
 1. 
 2. 
-3.
+3. 
 
 ***
 ## Awards
 
-- Data Challenge R&D android malware apps detection Winner
-  2017. 11<br>
-  Information Security R&D Data Challenge Using Machine Learning to detect malware android App
+- Data Challenge R&D android malware apps detection Winner**KIISC**
+  - 2017.11<br>
+  Information Security R&D Data Challenge Using Machine Learning to Detect Malware Android App
 
 ***
 ## Language
