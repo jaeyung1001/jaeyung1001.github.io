@@ -6,15 +6,18 @@
 <strong>E-mail</strong>: jaeyung1001@naver.com OR jaeyung1001@gmail.com<br>
 <strong>Github</strong>: [https://github.com/jaeyung1001](https://github.com/jaeyung1001)<br>
 <strong>Blog</strong>:   [https://jaeyung1001.tistory.com](https://jaeyung1001.tistory.com)<br>
+
 ***
 ## Education
 
 2012 ~ 2016 China, Tsinghua University. <strong>Computer Science and Technology</strong>. Bachelor's degree <br>
 2017 ~ 2019 Korea, Korea University. <strong>Information Security</strong>. Master's degree <br>
+
 ***
 ## Research Interest
 
 Software security, Vulnerability analysis, Deep Learning, Data analysis
+
 ***
 ## Paper
 
@@ -26,6 +29,7 @@ Software security, Vulnerability analysis, Deep Learning, Data analysis
 ```
 Abstract
 ```
+
 ***
 ## Project Experience
 
