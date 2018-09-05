@@ -40,7 +40,7 @@ Abstract
 ***
 ## Awards
 
-- Data Challenge R&D android malware apps detection Winner**KIISC**
+- Data Challenge R&D android malware apps detection Winner\[**KIISC**\]
   - 2017.11<br>
   Information Security R&D Data Challenge Using Machine Learning to Detect Malware Android App
 
