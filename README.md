@@ -1,9 +1,9 @@
 ## Personal Information
 
-Name: Jaeyung Lee
-Birth: 1993. 10. 01
-E-mail: jaeyung1001@naver.com OR jaeyung1001@gmail.com
-Github: https://github.com/jaeyung1001
+Name: Jaeyung Lee<br>
+Birth: 1993. 10. 01<br>
+E-mail: jaeyung1001@naver.com OR jaeyung1001@gmail.com<br>
+Github: https://github.com/jaeyung1001<br>
 
 ## Education
 
