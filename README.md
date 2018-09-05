@@ -1,3 +1,10 @@
+## Personal Information
+
+Name: Jaeyung Lee
+Birth: 1993. 10. 01
+E-mail: jaeyung1001@naver.com OR jaeyung1001@gmail.com
+Github: https://github.com/jaeyung1001
+
 ## Education
 
 2012 ~ 2016 China, Tsinghua University. <strong>Computer Science and Technology</strong>. Bachelor's degree <br>
