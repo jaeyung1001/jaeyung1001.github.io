@@ -18,7 +18,7 @@
 ***
 ## Research Interest
 
-Software security, Vulnerability analysis, Deep Learning, Data analysis
+Software security, Binary analysis, Automatic vulnerability detection, Deep Learning, Data analysis
 
 ***
 ## Paper
