@@ -58,7 +58,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
   - Native Speaker
   
 - **Chinese**
-  - Lived in Beijing for 11 years
+  - Lived in Beijing for 14 years
   
 - **English**
   - Middle class
