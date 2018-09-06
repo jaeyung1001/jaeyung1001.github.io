@@ -12,8 +12,8 @@
 ***
 ## Education
 
-2012 ~ 2016 China, Tsinghua University. <strong>Computer Science and Technology</strong>. Bachelor's degree <br>
-2017 ~ 2019 Korea, Korea University. <strong>Information Security</strong>. Master's degree <br>
+\[2012 ~ 2016\] China, Tsinghua University. <strong>Computer Science and Technology</strong>. Bachelor's degree <br>
+\[2017 ~ 2019\] Korea, Korea University. <strong>Information Security</strong>. Master's degree <br>
 
 ***
 ## Research Interest
@@ -35,9 +35,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 ***
 ## Project Experience
 
-1. 
-2. 
-3. 
+1. Binary Level Obfuscation/Protection technique Research **(Samsung Security)**
+2. Source Code DeObfuscation technique Research **(ADD)**
+3. Cryptographic Software protection Research **(IITP)**
+4. Phishing Site Detection HACKATON **(NAVER)**
+5. Android Malware App Detection **(KIISC)**
 
 ***
 ## Awards
