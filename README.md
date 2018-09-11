@@ -37,27 +37,33 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 
 <details><summary>Binary Level Obfuscation/Protection technique Research <strong>(Samsung Security)</strong></summary>
 
-#### yes, even hidden code blocks!
+- **Project Abstract**
+  - Research about delay method for Software which applied Binary Level Obfuscation technique
+
 </details>
 
 <details><summary>Source Code DeObfuscation technique Research<strong>(ADD)</strong></summary>
 
 #### yes, even hidden code blocks!
+
 </details>
 
 <details><summary>Cryptographic Software protection Research<strong>(IITP)</strong></summary>
 
 #### yes, even hidden code blocks!
+
 </details>
 
 <details><summary>Phishing Site Detection HACKATON<strong>(NAVER)</strong></summary>
 
-#### yes, even hidden code blocks!
+**yes, even hidden code blocks!**
+
 </details>
 
 <details><summary>Android Malware App Detection<strong>(KIISC)</strong></summary>
 
-#### yes, even hidden code blocks!
+**yes, even hidden code blocks!**
+
 </details>
 
 ***
