@@ -44,7 +44,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
         <li>Research delay method for software which applied binary level obfuscation technique</li>
     </ul>
 </li>
-
+<li><strong>Programming Language & Technique</strong>
+    <ul>
+        <li>C++(Pintool), Python, Reversing</li>
+    </ul>
+</li>
 </details>
 
 <details><summary>Source Code Deobfuscation technique Research<strong>(ADD)</strong></summary>
@@ -52,6 +56,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <li><strong>Project Abstract</strong>
     <ul>
         <li>Source code obfuscation technique and deobfuscation technology development </li>
+    </ul>
+</li>
+<li><strong>Programming Language & Technique</strong>
+    <ul>
+        <li>Python</li>
     </ul>
 </li>
 </details>
@@ -63,7 +72,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
         <li>Research binary level deobfuscation technique</li>
     </ul>
 </li>
- 
+<li><strong>Programming Language & Technique</strong>
+    <ul>
+        <li>C++, Reversing</li>
+    </ul>
+</li>
 </details>
 
 <details><summary>Control-Flow Integrity(CFI) Research<strong>(NRF)</strong></summary>
@@ -73,7 +86,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
         <li>A technique to verify that the control flow of the software moves according to the normal CFG(Control-Flow Graph)</li>
     </ul>
 </li>
-
+<li><strong>Programming Language & Technique</strong>
+    <ul>
+        <li>C++, LLVM, Python, Reversing</li>
+    </ul>
+</li>
 </details>
 
 <details><summary>Phishing Site Detection HACKATON<strong>(NAVER)</strong></summary>
@@ -83,7 +100,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
         <li>Building platform for NAVER phishing site detection</li>
     </ul>
 </li>
- 
+<li><strong>Programming Language & Technique</strong>
+    <ul>
+        <li>Python(Beautiful Soup)</li>
+    </ul>
+</li>
 </details>
 
 <details><summary>Android Malware App Detection<strong>(KIISC)</strong></summary>
@@ -93,7 +114,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
         <li>Building platform for Android malware app detection</li>
     </ul>
 </li>
-
+<li><strong>Programming Language & Technique</strong>
+    <ul>
+        <li>Python, Tensorflow, App Reversing</li>
+    </ul>
+</li>
 </details>
 
 ***
