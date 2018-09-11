@@ -37,8 +37,11 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 
 <details><summary>Binary Level Obfuscation/Protection technique Research <strong>(Samsung Security)</strong></summary>
 
-- **Project Abstract**
-  - Research about delay method for Software which applied Binary Level Obfuscation technique
+<li><strong>Project Abstract</strong>
+    <ul>
+        <li>Research about delay method for Software which applied Binary Level Obfuscation technique</li>
+    </ul>
+</li>
 
 </details>
 
