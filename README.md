@@ -61,12 +61,14 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 
 <details><summary>Phishing Site Detection HACKATON<strong>(NAVER)</strong></summary>
 <br>
+ 
 **yes, even hidden code blocks!**
 
 </details>
 
 <details><summary>Android Malware App Detection<strong>(KIISC)</strong></summary>
 <br>
+ 
 **yes, even hidden code blocks!**
 
 </details>
