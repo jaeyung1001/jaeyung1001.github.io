@@ -149,5 +149,5 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 
 ## Activity
 
-- Badminton Club chair (1 year)
+- Badminton Club manager (1 year)
 - Programming Club & Translation Chinese hacking News (1 year)
