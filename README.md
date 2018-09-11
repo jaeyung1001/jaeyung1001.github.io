@@ -132,7 +132,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 ## Certificate
 
 - Engineer Information Processing(정보처리기사)
-- HSK(6th grade)
+- HSK(level 6)
 
 ***
 ## Language
