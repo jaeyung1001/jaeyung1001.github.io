@@ -8,8 +8,8 @@
 **Blog**:   [https://jaeyung1001.tistory.com](https://jaeyung1001.tistory.com)<br>
 **LinkedIn**: [https://www.linkedin.com/in/lee-jae-yung-1017b2151/](https://www.linkedin.com/in/lee-jae-yung-1017b2151/)<br>
 **Programming Language**:  Python, C++, JAVA, Web Programming...<br>
-***
 
+***
 ## Education
 
 \[2012 ~ 2016.09\] <strong>Computer Science and Technology</strong>, Tsinghua University, China. Bachelor's degree <br>
@@ -36,34 +36,28 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 ## Project Experience \[Click to get more detail]
 
 <details><summary>Binary Level Obfuscation/Protection technique Research <strong>(Samsung Security)</strong></summary>
-<p>
 
 #### yes, even hidden code blocks!
-</p>
 </details>
+
 <details><summary>Source Code DeObfuscation technique Research<strong>(ADD)</strong></summary>
-<p>
 
 #### yes, even hidden code blocks!
-</p>
 </details>
+
 <details><summary>Cryptographic Software protection Research<strong>(IITP)</strong></summary>
-<p>
 
 #### yes, even hidden code blocks!
-</p>
 </details>
+
 <details><summary>Phishing Site Detection HACKATON<strong>(NAVER)</strong></summary>
-<p>
 
 #### yes, even hidden code blocks!
-</p>
 </details>
+
 <details><summary>Android Malware App Detection<strong>(KIISC)</strong></summary>
-<p>
- 
+
 #### yes, even hidden code blocks!
-</p>
 </details>
 
 ***
