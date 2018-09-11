@@ -12,8 +12,8 @@
 ***
 ## Education
 
-\[2012 ~ 2016.09\] <strong>Computer Science and Technology</strong>, Tsinghua University, China. Bachelor's degree <br>
-\[2017 ~ 2019.02\] <strong>Information Security</strong>, Korea University, Korea. Master's degree <br>
+\[2012 ~ 2016.09\] <strong>Department of Computer Science and Technology</strong>, Tsinghua University, China. Bachelor's degree <br>
+\[2017 ~ 2019.02\] <strong>Department of Information Security</strong>, Korea University, Korea. Master's degree <br>
 
 ***
 ## Research Interest
