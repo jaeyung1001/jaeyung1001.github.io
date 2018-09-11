@@ -40,12 +40,12 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <details><summary>Binary Level Obfuscation/Protection technique Research <strong>(Samsung Security)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Research delay method for software which applied binary level obfuscation technique</li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>C++(Pintool), Python, Reversing</li>
     </ul>
 </li>
@@ -54,12 +54,12 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <details><summary>Source Code Deobfuscation technique Research<strong>(ADD)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Source code obfuscation technique and deobfuscation technology development </li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Python</li>
     </ul>
 </li>
@@ -68,12 +68,12 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <details><summary>Cryptographic Software protection Research<strong>(IITP)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Research binary level deobfuscation technique</li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>C++, Reversing</li>
     </ul>
 </li>
@@ -82,12 +82,12 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <details><summary>Control-Flow Integrity(CFI) Research<strong>(NRF)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>A technique to verify that the control flow of the software moves according to the normal CFG(Control-Flow Graph)</li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>C++, LLVM, Python, Reversing</li>
     </ul>
 </li>
@@ -96,12 +96,12 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <details><summary>Phishing Site Detection HACKATON<strong>(NAVER)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Building platform for NAVER phishing site detection</li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Python(Beautiful Soup)</li>
     </ul>
 </li>
@@ -110,12 +110,12 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <details><summary>Android Malware App Detection<strong>(KIISC)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Building platform for Android malware app detection</li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
-    <ul>
+    <ul style="list-style-type:circle">
         <li>Python, Tensorflow, App Reversing</li>
     </ul>
 </li>
