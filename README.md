@@ -35,46 +35,68 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
   The main goal of code obfuscation is to make software more difficult to reverseengineer. These techniques modify data structures and control flow while retain-ing the functionality of the original program. Although obfuscation is a usefulmethod for protecting programs, it can also be used to protect malware. Thisraises concerns that malware could use code obfuscation to avoid detection byantivirus software. It is very difficult to analyze the functionality of obfuscatedmalware before it has been deobfuscated. Furthermore, commercial obfuscationtools allow malware authors to apply multiple obfuscation options simultane-ously, and current deobfuscation techniques cannot handle this situation. In thisstudy, we analyzed a well-known commercial obfuscation tool called Themida.We applied its many obfuscation options to a program and implemented a toolto recover the original code and data. We extracted features from obfuscated pro-grams and analyzed their control flow. Our tool is based on these features and thecontrol flow patterns and can identify whether Themida has been applied to theprogram and which obfuscation options have been used. Finally, we suggesteda method for recovering the import address table of programs by using dynamicbinary instrumentation. The proposed rules and algorithms can almost com-pletely recover the APIs of programs even though they are hidden by obfuscationoptions provided by Themida.</details>
 
 ***
-## Project Experience \[Click to get more detail]
+## Project Experience \[Click to detail]
 
 <details><summary>Binary Level Obfuscation/Protection technique Research <strong>(Samsung Security)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
     <ul>
-        <li>Research about delay method for Software which applied Binary Level Obfuscation technique</li>
+        <li>Research delay method for software which applied binary level obfuscation technique</li>
     </ul>
 </li>
 
 </details>
 
-<details><summary>Source Code DeObfuscation technique Research<strong>(ADD)</strong></summary>
+<details><summary>Source Code Deobfuscation technique Research<strong>(ADD)</strong></summary>
 <br>
-#### yes, even hidden code blocks!
-
+<li><strong>Project Abstract</strong>
+    <ul>
+        <li>Source code obfuscation technique and deobfuscation technology development </li>
+    </ul>
+</li>
 </details>
 
 <details><summary>Cryptographic Software protection Research<strong>(IITP)</strong></summary>
 <br>
-#### yes, even hidden code blocks!
+<li><strong>Project Abstract</strong>
+    <ul>
+        <li>Research binary level deobfuscation technique</li>
+    </ul>
+</li>
+ 
+</details>
+
+<details><summary>Control-Flow Integrity(CFI) Research<strong>(NRF)</strong></summary>
+<br>
+<li><strong>Project Abstract</strong>
+    <ul>
+        <li>A technique to verify that the control flow of the software moves according to the normal CFG(Control-Flow Graph)</li>
+    </ul>
+</li>
 
 </details>
 
 <details><summary>Phishing Site Detection HACKATON<strong>(NAVER)</strong></summary>
 <br>
+<li><strong>Project Abstract</strong>
+    <ul>
+        <li>Building platform for NAVER phishing site detection</li>
+    </ul>
+</li>
  
-**yes, even hidden code blocks!**
-
 </details>
 
 <details><summary>Android Malware App Detection<strong>(KIISC)</strong></summary>
 <br>
- 
-**yes, even hidden code blocks!**
+<li><strong>Project Abstract</strong>
+    <ul>
+        <li>Building platform for Android malware app detection</li>
+    </ul>
+</li>
 
 </details>
 
 ***
-
 ## Awards
 
 - Data Challenge R&D android malware apps detection Winner\[**KIISC**\]
