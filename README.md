@@ -8,12 +8,12 @@
 **Blog**:   [https://jaeyung1001.tistory.com](https://jaeyung1001.tistory.com)<br>
 **LinkedIn**: [https://www.linkedin.com/in/lee-jae-yung-1017b2151/](https://www.linkedin.com/in/lee-jae-yung-1017b2151/)<br>
 **Programming Language**:  Python, C++, JAVA, Web Programming...<br>
-
 ***
+
 ## Education
 
-\[2012 ~ 2016.09\] China, Tsinghua University. <strong>Computer Science and Technology</strong>. Bachelor's degree <br>
-\[2017 ~ 2019.02\] Korea, Korea University. <strong>Information Security</strong>. Master's degree <br>
+\[2012 ~ 2016.09\] <strong>Computer Science and Technology</strong>, Tsinghua University, China. Bachelor's degree <br>
+\[2017 ~ 2019.02\] <strong>Information Security</strong>, Korea University, Korea. Master's degree <br>
 
 ***
 ## Research Interest
@@ -33,15 +33,40 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
   The main goal of code obfuscation is to make software more difficult to reverseengineer. These techniques modify data structures and control flow while retain-ing the functionality of the original program. Although obfuscation is a usefulmethod for protecting programs, it can also be used to protect malware. Thisraises concerns that malware could use code obfuscation to avoid detection byantivirus software. It is very difficult to analyze the functionality of obfuscatedmalware before it has been deobfuscated. Furthermore, commercial obfuscationtools allow malware authors to apply multiple obfuscation options simultane-ously, and current deobfuscation techniques cannot handle this situation. In thisstudy, we analyzed a well-known commercial obfuscation tool called Themida.We applied its many obfuscation options to a program and implemented a toolto recover the original code and data. We extracted features from obfuscated pro-grams and analyzed their control flow. Our tool is based on these features and thecontrol flow patterns and can identify whether Themida has been applied to theprogram and which obfuscation options have been used. Finally, we suggesteda method for recovering the import address table of programs by using dynamicbinary instrumentation. The proposed rules and algorithms can almost com-pletely recover the APIs of programs even though they are hidden by obfuscationoptions provided by Themida.
 
 ***
-## Project Experience
+## Project Experience \[Click to get more detail]
 
-1. [Binary Level Obfuscation/Protection technique Research](project/1.md) **(Samsung Security)**
-2. Source Code DeObfuscation technique Research **(ADD)**
-3. Cryptographic Software protection Research **(IITP)**
-4. Phishing Site Detection HACKATON **(NAVER)**
-5. Android Malware App Detection **(KIISC)**
+<details><summary>Binary Level Obfuscation/Protection technique Research <strong>(Samsung Security)</strong></summary>
+<p>
 
+#### yes, even hidden code blocks!
+</p>
+</details>
+<details><summary>Source Code DeObfuscation technique Research<strong>(ADD)</strong></summary>
+<p>
+
+#### yes, even hidden code blocks!
+</p>
+</details>
+<details><summary>Cryptographic Software protection Research<strong>(IITP)</strong></summary>
+<p>
+
+#### yes, even hidden code blocks!
+</p>
+</details>
+<details><summary>Phishing Site Detection HACKATON<strong>(NAVER)</strong></summary>
+<p>
+
+#### yes, even hidden code blocks!
+</p>
+</details>
+<details><summary>Android Malware App Detection<strong>(KIISC)</strong></summary>
+<p>
+ 
+#### yes, even hidden code blocks!
+</p>
+</details>
 ***
+
 ## Awards
 
 - Data Challenge R&D android malware apps detection Winner\[**KIISC**\]
@@ -64,7 +89,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
   - Lived in Beijing for 14 years
   
 - **English**
-  - Middle class
+  - Working proficiency
 
 ## Activity
 
