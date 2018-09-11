@@ -69,7 +69,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <br>
 <li><strong>Project Abstract</strong>
     <ul style="list-style-type:circle">
-        <li>Research binary level deobfuscation technique</li>
+        <li>For obfuscated malware execution program, research binary level deobfuscation technique</li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
