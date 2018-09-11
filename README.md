@@ -34,20 +34,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 
 ***
 ## Project Experience
-```html
-<h2>Example of code</h2>
 
-<pre>
-    <div class="container">
-        <div class="block two first">
-            <h2>Your title</h2>
-            <div class="wrap">
-            //Your content
-            </div>
-        </div>
-    </div>
-</pre>
-```
 1. [Binary Level Obfuscation/Protection technique Research](project/1.md) **(Samsung Security)**
 2. Source Code DeObfuscation technique Research **(ADD)**
 3. Cryptographic Software protection Research **(IITP)**
@@ -79,4 +66,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 - **English**
   - Middle class
 
+## Activity
 
+- Badminton Club chair (1 year)
+- Programming Club & Translation Chinese hacking News (1 year)
