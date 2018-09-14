@@ -41,7 +41,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 <br>
 <li><strong>Project Abstract</strong>
     <ul style="list-style-type:circle">
-        <li>Research delay method for software which applied binary level obfuscation technique</li>
+        <li>Research analysis delay method for software which applied binary level obfuscation technique</li>
     </ul>
 </li>
 <li><strong>Programming Language & Technique</strong>
