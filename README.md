@@ -79,6 +79,20 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 </li>
 </details>
 
+<details><summary>Cryptographic module verification [KCMVP certification]  <strong>(Samsung Security)</strong></summary>
+<br>
+<li><strong>Project Abstract</strong>
+    <ul style="list-style-type:circle">
+        <li>Korea university's cryptographic module "KUCrypto" develop to get KCMVP certification</li>
+    </ul>
+</li>
+<li><strong>Programming Language & Technique</strong>
+    <ul style="list-style-type:circle">
+        <li>C++, Linux(Random bit generation)</li>
+    </ul>
+</li>
+</details>
+
 <details><summary>Control-Flow Integrity(CFI) Research<strong>(NRF)</strong></summary>
 <br>
 <li><strong>Project Abstract</strong>
