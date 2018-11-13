@@ -10,6 +10,11 @@
 **Programming Language**:  Python, C++, JAVA, Web Programming...<br>
 
 ***
+## Working
+
+\[2018.11 ~  Now\] <strong>PLAYERUNKOWN'S BATTLEGROUNDS[PUBG]</strong>, Machine Learning Engineer<br>
+
+***
 ## Education
 
 \[2012 ~ 2016.09\] <strong>Department of Computer Science and Technology</strong>, Tsinghua University, China. Bachelor's degree <br>
