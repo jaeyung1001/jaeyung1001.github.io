@@ -12,7 +12,7 @@
 ***
 ## Working
 
-\[2018.11 ~  Now\] <strong>PLAYERUNKOWN'S BATTLEGROUNDS[PUBG]</strong>, Machine Learning Engineer<br>
+\[2018.11 ~  Now\] <strong>PLAYERUNKOWN'S BATTLEGROUNDS[PUBG]</strong>, Data analyst<br>
 
 ***
 ## Education
