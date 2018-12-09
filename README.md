@@ -144,9 +144,10 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 ## Awards
 
 - Data Challenge R&D android malware apps detection Winner\[**KIISC**\]
-  - 2017.11<br>
-  Information Security R&D Data Challenge Using Machine Learning to Detect Malware Android App
+  - Information Security R&D Data Challenge Using Machine Learning to Detect Malware Android App, 2017.11
 
+- Best Paper Award\[**KIISC**\]
+  - Automated Vulnerability analysis using Deep Learning, 2018.11
 ***
 ## Certificate
 
