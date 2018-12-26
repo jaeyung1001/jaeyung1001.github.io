@@ -148,6 +148,7 @@ Software security, Binary analysis, Automatic vulnerability detection, Deep Lear
 
 - Best Paper Award\[**KIISC**\]
   - Automated Vulnerability analysis using Deep Learning, 2018.11
+
 ***
 ## Certificate
 
