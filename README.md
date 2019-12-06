@@ -14,6 +14,12 @@
 
 \[2018.11 ~  Now\] <strong>PLAYERUNKOWN'S BATTLEGROUNDS[PUBG]</strong>, Data analyst<br>
 
+### Project
+- Anti-Cheat Game Data Analytics and Building hacker estimation Machine Learning Model<br>
+  Using Python and Pyspark to analysis game data, proceeding feature engineering and create hacker estimation Machine Learning Model. Provide Data Visualization(BI) to company
+  
+- TBD... not tidy up yet
+ 
 ***
 ## Education
 
